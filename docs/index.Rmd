@@ -5,9 +5,23 @@ date: "2025-03-21"
 output: html_document
 ---
 
-# Esta es una prueba de un repositorio en GitHub
+## Esta página servirá para brindar apoyo en el manejo y análisis de datos biológicos a mis estudiantes de Ecología, de la carrera de Ingeniería Ambiental.
+
+[Curso de Gestion de Datos] (https://www.)
+
+Mostrar grafico
 
 ```{r}
-2+2
+data("cars")
+plot(cars)
 ```
+
+Clases {.panel-tabset}
+
+## Clase 1
+
+## Clase 2
+
+
+
 
